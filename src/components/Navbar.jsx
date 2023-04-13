@@ -17,8 +17,7 @@ const Navbar = () => {
             <img src={AS} alt='logo image' style={{width: '80px'}}/>
          </div>
          {/* Menu*/}
-            
-          <ul className='hidden md:flex'> 
+              <ul className='hidden md:flex'> 
                 <li>
                   <Link  to="home"  smooth={true} duration={500}>
                     Home
@@ -44,7 +43,7 @@ const Navbar = () => {
                     Contact
                   </Link>
                 </li>
-           </ul>
+            </ul>
       
 
         {/* hamburger menu */}
@@ -55,7 +54,7 @@ const Navbar = () => {
         </div>
         {/* mobile Icons */}
          <div>
-             <ul className={!nav? "hidden": "absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center"}>
+             <ul className={!nav? "hidden" : "absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center"}>
                 <li className="py-6 text-4xl">
                   <Link onClick={handleClick} to="home"  smooth={true} duration={500}>
                     Home
@@ -108,8 +107,6 @@ const Navbar = () => {
             </li>
           </ul>
         </div>
-
-      
     </div>
   );
 }
