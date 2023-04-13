@@ -16,7 +16,8 @@ const About = () => {
                 </div>
                 <div>
                     <p>
-                        I'm thinking of something to write here. hvihjvisjfilesjfilesjfilejslifjeslfesfjceslfclesjlejflescflkeslc
+                    I am passionate about utilizing my skills in software development and neurological research to drive innovation and make a positive impact in the world. With my technical expertise, leadership skills, and commitment to excellence, I am confident that I can make a valuable contribution to any organization. I specialize in front-end development, currently looking for full-time roles for 2023. 
+                    If you are a professional who is looking to build a team or need a full-stack engineer, please feel free to reach out!
                     </p>
                 </div>
             </div>
