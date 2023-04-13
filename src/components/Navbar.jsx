@@ -3,6 +3,7 @@ import  AS from '../assets/as.png';
 import {FaBars, FaTimes, FaGithub, FaLinkedin, FaFacebook} from 'react-icons/fa';
 import {HiOutlineMail} from 'react-icons/hi';
 import {BsFillPersonFill} from 'react-icons/bs';
+import {Link} from 'react-scroll';
 
 
 const Navbar = () => {
@@ -17,8 +18,12 @@ const Navbar = () => {
          </div>
         {/* Menu*/}
          <div>
-             <ul className='hidden md:flex'>
-                <li>Home</li>
+             <ul className='hidden md:flex'> 
+                <li>
+                <Link  to="home"  smooth={true} duration={500}>
+                  Home
+                </Link>
+                </li>
                 <li>About</li>
                 <li>Skills</li>
                 <li>Work</li>
@@ -56,12 +61,12 @@ const Navbar = () => {
               </a>
             </li>
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#F4B400]">
-              <a className="flex justify-between items-center w-full text-gray-300" href="/" target="_blank">
+              <a className="flex justify-between items-center w-full text-gray-300" href="mailto:aaryaman.sharma001@gmail.com" target="_blank" rel="noreferrer">
                 Email <HiOutlineMail size={30} />
               </a>
             </li>
             <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
-              <a className="flex justify-between items-center w-full text-gray-300" href="/">
+              <a className="flex justify-between items-center w-full text-gray-300" href="/Aaryaman_Sharma_Resume_April2023.pdf">
                 Resume <BsFillPersonFill size={30} />
               </a>
             </li>
