@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/aaryamans-personal-website/static/css/main.ec9c040e.css",
-    "main.js": "/aaryamans-personal-website/static/js/main.07d54d9a.js",
-    "static/media/ant.png": "/aaryamans-personal-website/static/media/ant.7667997a6bd9b91eead5.png",
-    "static/media/blockchain.jpg": "/aaryamans-personal-website/static/media/blockchain.7d21d1392a37a65f88a0.jpg",
-    "static/media/visualiztion_tool.jpg": "/aaryamans-personal-website/static/media/visualiztion_tool.a8c92a7fe5ebf5a35a11.jpg",
-    "static/media/spacegame.jpg": "/aaryamans-personal-website/static/media/spacegame.8f8f17523f25532e36a1.jpg",
-    "static/media/react.png": "/aaryamans-personal-website/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/node.png": "/aaryamans-personal-website/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/mongo.png": "/aaryamans-personal-website/static/media/mongo.2a1528ddc31d4ce8518d.png",
-    "static/media/html.png": "/aaryamans-personal-website/static/media/html.2ba4fabc69a89a8f71e6.png",
-    "static/media/tailwind.png": "/aaryamans-personal-website/static/media/tailwind.e47ac876b8d4d0bba47a.png",
-    "static/media/css.png": "/aaryamans-personal-website/static/media/css.69a82c2d9e45c933a9cb.png",
-    "static/media/firebase.png": "/aaryamans-personal-website/static/media/firebase.209703cedf1b1a96bc52.png",
-    "static/media/as.png": "/aaryamans-personal-website/static/media/as.95318fb2a5a872627c83.png",
-    "static/media/javascript1.png": "/aaryamans-personal-website/static/media/javascript1.1ccd6ef9bb1f9c84ef00.png",
-    "index.html": "/aaryamans-personal-website/index.html",
-    "main.ec9c040e.css.map": "/aaryamans-personal-website/static/css/main.ec9c040e.css.map",
-    "main.07d54d9a.js.map": "/aaryamans-personal-website/static/js/main.07d54d9a.js.map"
+    "main.css": "/static/css/main.ec9c040e.css",
+    "main.js": "/static/js/main.e69f497d.js",
+    "static/media/ant.png": "/static/media/ant.7667997a6bd9b91eead5.png",
+    "static/media/blockchain.jpg": "/static/media/blockchain.7d21d1392a37a65f88a0.jpg",
+    "static/media/visualiztion_tool.jpg": "/static/media/visualiztion_tool.a8c92a7fe5ebf5a35a11.jpg",
+    "static/media/spacegame.jpg": "/static/media/spacegame.8f8f17523f25532e36a1.jpg",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/as.png": "/static/media/as.95318fb2a5a872627c83.png",
+    "static/media/javascript1.png": "/static/media/javascript1.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.ec9c040e.css.map": "/static/css/main.ec9c040e.css.map",
+    "main.e69f497d.js.map": "/static/js/main.e69f497d.js.map"
   },
   "entrypoints": [
     "static/css/main.ec9c040e.css",
-    "static/js/main.07d54d9a.js"
+    "static/js/main.e69f497d.js"
   ]
 }
