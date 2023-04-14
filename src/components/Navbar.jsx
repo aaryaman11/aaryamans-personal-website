@@ -43,7 +43,7 @@ const Navbar = () => {
                     Contact
                   </Link>
                 </li>
-            </ul>
+              </ul>
       
 
         {/* hamburger menu */}
