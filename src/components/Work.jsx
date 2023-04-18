@@ -58,10 +58,10 @@ const Work = () => {
                             SpaceShip Game
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://aaryaman11.github.io/cs460student/04/index.html">
+                            <a href="https://aaryaman11.github.io/Cosmic-Odyssey/">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">demo</button>
                             </a>
-                            <a href="https://github.com/aaryaman11/cs460student/tree/main/04">
+                            <a href="https://github.com/aaryaman11/Cosmic-Odyssey">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">code</button>
                             </a>
                         </div>
@@ -75,10 +75,10 @@ const Work = () => {
                             Virtual Robot
                         </span>
                         <div className='pt-8 text-center'>
-                            <a href="https://aaryaman11.github.io/cs460student/08/index.html">
+                            <a href=" https://aaryaman11.github.io/Rhythmic-Avatar/">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">demo</button>
                             </a>
-                            <a href="https://github.com/aaryaman11/cs460student/tree/main/08">
+                            <a href="https://github.com/aaryaman11/Rhythmic-Avatar">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">code</button>
                             </a>
                         </div>
