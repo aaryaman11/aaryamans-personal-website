@@ -55,7 +55,7 @@ const Work = () => {
                     {/*hover  effect*/}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            SpaceShip Game
+                            Cosmic Odyssey
                         </span>
                         <div className='pt-8 text-center'>
                             <a href="https://aaryaman11.github.io/Cosmic-Odyssey/">
@@ -72,7 +72,7 @@ const Work = () => {
                     {/*hover  effect*/}
                     <div className='opacity-0 group-hover:opacity-100'>
                         <span className='text-2xl font-bold text-white tracking-wider'>
-                            Virtual Robot
+                            Rhythmic Avatar
                         </span>
                         <div className='pt-8 text-center'>
                             <a href=" https://aaryaman11.github.io/Rhythmic-Avatar/">
