@@ -3,6 +3,7 @@ import Spacegame from '../assets/spacegame.jpg';
 import Visualization from '../assets/visualiztion_tool.jpg';
 import Notify from '../assets/blockchain.jpg';
 import Robot from '../assets/ant.png';
+import SQL from '../assets/sql.png';
 
 const Work = () => {
   return (
@@ -14,7 +15,7 @@ const Work = () => {
             </div>
             {/* container card of project */}
             {/* to increase the number of projects increase the md:grid-cols-2*/}
-            <div  className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
+            <div  className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
                 <div style={{backgroundImage: `url(${Visualization})`}} className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
                     {/*hover  effect*/}
                     <div className='opacity-0 group-hover:opacity-100'>
@@ -62,6 +63,23 @@ const Work = () => {
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">demo</button>
                             </a>
                             <a href="https://github.com/aaryaman11/Cosmic-Odyssey">
+                                <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">code</button>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+                <div style={{backgroundImage: `url(${SQL})`}} className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div">
+                    {/*hover  effect*/}
+                    <div className='opacity-0 group-hover:opacity-100'>
+                        <span className='text-2xl font-bold text-white tracking-wider'>
+                            SQLMate
+                        </span>
+                        <div className='pt-8 text-center'>
+                            <a href="https://aaryaman11.github.io/sqlmate/">
+                                <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">demo</button>
+                            </a>
+                            <a href="https://github.com/aaryaman11/sqlmate">
                                 <button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg">code</button>
                             </a>
                         </div>
