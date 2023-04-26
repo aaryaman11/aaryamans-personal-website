@@ -3,7 +3,7 @@ import Spacegame from '../assets/spacegame.jpg';
 import Visualization from '../assets/visualiztion_tool.jpg';
 import Notify from '../assets/blockchain.jpg';
 import Robot from '../assets/ant.png';
-import SQL from '../assets/sql.png';
+import SQL from '../assets/sql.jpg';
 
 const Work = () => {
   return (
