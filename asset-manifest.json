@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec9c040e.css",
-    "main.js": "/static/js/main.a9ec0422.js",
+    "main.css": "/static/css/main.c5ca848d.css",
+    "main.js": "/static/js/main.fc833ffd.js",
     "static/media/ant.png": "/static/media/ant.7667997a6bd9b91eead5.png",
     "static/media/blockchain.jpg": "/static/media/blockchain.7d21d1392a37a65f88a0.jpg",
     "static/media/visualiztion_tool.jpg": "/static/media/visualiztion_tool.a8c92a7fe5ebf5a35a11.jpg",
     "static/media/spacegame.jpg": "/static/media/spacegame.8f8f17523f25532e36a1.jpg",
+    "static/media/sql.jpg": "/static/media/sql.59915daa27a2a7c2b7f0.jpg",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/static/media/mongo.2a1528ddc31d4ce8518d.png",
@@ -16,11 +17,11 @@
     "static/media/as.png": "/static/media/as.95318fb2a5a872627c83.png",
     "static/media/javascript1.png": "/static/media/javascript1.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.ec9c040e.css.map": "/static/css/main.ec9c040e.css.map",
-    "main.a9ec0422.js.map": "/static/js/main.a9ec0422.js.map"
+    "main.c5ca848d.css.map": "/static/css/main.c5ca848d.css.map",
+    "main.fc833ffd.js.map": "/static/js/main.fc833ffd.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec9c040e.css",
-    "static/js/main.a9ec0422.js"
+    "static/css/main.c5ca848d.css",
+    "static/js/main.fc833ffd.js"
   ]
 }
